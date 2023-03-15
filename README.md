@@ -1,1 +1,0 @@
-# microservice-classes-registration
