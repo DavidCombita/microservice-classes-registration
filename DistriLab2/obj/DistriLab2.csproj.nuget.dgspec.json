@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\source\\repos\\DistriLab2\\DistriLab2\\DistriLab2.csproj": {}
+    "/Users/davidcombita/microservice-classes-registration/DistriLab2/DistriLab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\source\\repos\\DistriLab2\\DistriLab2\\DistriLab2.csproj": {
+    "/Users/davidcombita/microservice-classes-registration/DistriLab2/DistriLab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\source\\repos\\DistriLab2\\DistriLab2\\DistriLab2.csproj",
+        "projectUniqueName": "/Users/davidcombita/microservice-classes-registration/DistriLab2/DistriLab2.csproj",
         "projectName": "DistriLab2",
-        "projectPath": "C:\\Users\\David\\source\\repos\\DistriLab2\\DistriLab2\\DistriLab2.csproj",
-        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\source\\repos\\DistriLab2\\DistriLab2\\obj\\",
+        "projectPath": "/Users/davidcombita/microservice-classes-registration/DistriLab2/DistriLab2.csproj",
+        "packagesPath": "/Users/davidcombita/.nuget/packages/",
+        "outputPath": "/Users/davidcombita/microservice-classes-registration/DistriLab2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/davidcombita/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,23 +1,32 @@
 ﻿<Properties StartupConfiguration="{005AC017-9F63-4C25-87CC-57889FDCF844}|https">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.microservice-classes-registration PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="microservice-classes-registration/Model/Students.cs">
+    <Files>
+      <File FileName="microservice-classes-registration/Program.cs" />
+      <File FileName="microservice-classes-registration/Properties/launchSettings.json" />
+      <File FileName="microservice-classes-registration/db/DatabaseSqlServer.cs" />
+      <File FileName="microservice-classes-registration/Model/Students.cs" Line="1" Column="1" />
+      <File FileName="microservice-classes-registration/Model/Response.cs" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="microservice-classes-registration" expanded="True" selected="True">
+          <Node name="microservice-classes-registration" expanded="True">
             <Node name="microservice-classes-registration" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Properties" expanded="True" />
+              <Node name="db" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Students.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.microservice-classes-registration PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>
