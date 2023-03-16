@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{6DE3FF93-43BF-4B57-B29D-FF0882FCE5D2}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DistriLab2/Controllers/InscriptionController.cs">
+    <Files>
+      <File FileName="DistriLab2/Controllers/WeatherForecastController.cs" Line="33" Column="1" />
+      <File FileName="DistriLab2/Controllers/StundentController.cs" Line="16" Column="9" />
+      <File FileName="DistriLab2/Models/DB/Subject.cs" Line="13" Column="30" />
+      <File FileName="DistriLab2/Models/StudentXD.cs" Line="1" Column="1" />
+      <File FileName="DistriLab2/Models/DB/Student.cs" Line="19" Column="59" />
+      <File FileName="DistriLab2/Models/DB/dblab2Context.cs" Line="27" Column="46" />
+      <File FileName="DistriLab2/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="DistriLab2/appsettings.json" Line="3" Column="18" />
+      <File FileName="DistriLab2/Program.cs" Line="1" Column="1" />
+      <File FileName="DistriLab2/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="DistriLab2/Controllers/InscriptionController.cs" Line="72" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DistriLab2" expanded="True">
+            <Node name="DistriLab2" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="InscriptionController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="DB" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DistriLab2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
